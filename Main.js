@@ -13,3 +13,5 @@ app.on('window-all-closed',function(){
 	console.log("window-all-closed event trigerred.")
 	app.quit();
 });
+
+console.warn('testee...');
